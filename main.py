@@ -15,7 +15,8 @@ def home():
 @app.get("/search/{title}")
 def search(title: str):
     title = title.replace(" ", "-")
-    url = "https://mangareader-api.vercel.app/api/v1/search/{title}"
-
+    url = f"https://mangareader-api.vercel.app/api/v1/search/{title}"
     response = requests.get(url)
-    return {"result": response.json()}
+
+    result = response.json()["data"]
+    return {"query": title, "result": result}
