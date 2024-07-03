@@ -13,7 +13,7 @@ def home():
     return {"title": "LireApi"}
 
 @app.get("/search/{title}")
-def home(title: str):
+def search(title: str):
     title = title.replace(" ", "-")
     url = "https://mangareader-api.vercel.app/api/v1/search/{title}"
 
