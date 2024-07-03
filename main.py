@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+import requests
 
 
 app = FastAPI()
@@ -13,4 +14,8 @@ def home():
 
 @app.get("/search/{title}")
 def home(title: str):
-    return {"result": title}
+    title = title.replace(" ", "-")
+    url = "https://mangareader-api.vercel.app/api/v1/search/{title}"
+
+    response = requests.get(url)
+    return {"result": response.json()}
