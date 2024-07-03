@@ -19,4 +19,4 @@ def search(title: str):
     response = requests.get(url)
 
     result = response.json()["data"]
-    return {"query": title, "result": result}
+    return {"query": title, "response": response.status_code, "result": result}
