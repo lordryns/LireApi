@@ -10,3 +10,7 @@ def trending_books():
 @app.get("/")
 def home():
     return {"title": "LireApi"}
+
+@app.get("/search/{title}")
+def home(title: str):
+    return {"result": title}
