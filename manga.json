@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Naruto",
+        "author": "Masashi Kishimoto",
+        "publication_year": 1999,
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "volumes": 72
+    },
+    {
+        "title": "One Piece",
+        "author": "Eiichiro Oda",
+        "publication_year": 1997,
+        "genres": ["Action", "Adventure", "Comedy"],
+        "volumes": 100
+    },
+    {
+        "title": "Attack on Titan",
+        "author": "Hajime Isayama",
+        "publication_year": 2009,
+        "genres": ["Action", "Drama", "Fantasy"],
+        "volumes": 34
+    },
+    {
+        "title": "Death Note",
+        "author": "Tsugumi Ohba",
+        "publication_year": 2003,
+        "genres": ["Mystery", "Psychological", "Thriller"],
+        "volumes": 12
+    },
+    {
+        "title": "Fullmetal Alchemist",
+        "author": "Hiromu Arakawa",
+        "publication_year": 2001,
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "volumes": 27
+    },
+    {
+        "title": "My Hero Academia",
+        "author": "Kohei Horikoshi",
+        "publication_year": 2014,
+        "genres": ["Action", "Adventure", "Superhero"],
+        "volumes": 32
+    },
+    {
+        "title": "Tokyo Ghoul",
+        "author": "Sui Ishida",
+        "publication_year": 2011,
+        "genres": ["Dark Fantasy", "Horror", "Psychological"],
+        "volumes": 14
+    },
+    {
+        "title": "Berserk",
+        "author": "Kentaro Miura",
+        "publication_year": 1989,
+        "genres": ["Dark Fantasy", "Action", "Adventure"],
+        "volumes": 40
+    },
+    {
+        "title": "Dragon Ball",
+        "author": "Akira Toriyama",
+        "publication_year": 1984,
+        "genres": ["Action", "Adventure", "Fantasy"],
+        "volumes": 42
+    },
+    {
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "author": "Koyoharu Gotouge",
+        "publication_year": 2016,
+        "genres": ["Action", "Dark Fantasy", "Adventure"],
+        "volumes": 23
+    }
+]
