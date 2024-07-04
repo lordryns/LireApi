@@ -1,6 +1,9 @@
 from fastapi import FastAPI
-import requests
+import json 
 
+
+with open("manga.json", "r") as fp:
+    books = json.load(fp=fp)
 
 app = FastAPI()
 
