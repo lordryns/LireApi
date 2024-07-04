@@ -7,9 +7,9 @@ with open("manga.json", "r") as fp:
 
 app = FastAPI()
 
-@app.get("/trending_books")
-def trending_books():
-    pass
+@app.get("/manga")
+async def get_manga():
+    return books
 
 @app.get("/")
 async def home():
