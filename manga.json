@@ -13,7 +13,7 @@
         "publication_year": 1997,
         "genres": ["Action", "Adventure", "Comedy"],
         "volumes": 100,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/6/6d/One_Piece_vol_61.jpg"
+        "cover_image": "https://en.wikipedia.org/wiki/File:One_Piece,_Volume_61_Cover_(Japanese).jpg"
     },
     {
         "title": "Attack on Titan",
@@ -21,7 +21,7 @@
         "publication_year": 2009,
         "genres": ["Action", "Drama", "Fantasy"],
         "volumes": 34,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Attack_on_Titan_Volume_1.jpg"
+        "cover_image": "https://en.wikipedia.org/wiki/File:Shingeki_no_Kyojin_manga_volume_1.jpg"
     },
     {
         "title": "Death Note",
@@ -29,7 +29,7 @@
         "publication_year": 2003,
         "genres": ["Mystery", "Psychological", "Thriller"],
         "volumes": 12,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/6/64/Death_Note_Vol_1.jpg"
+        "cover_image": "https://en.wikipedia.org/wiki/File:Death_Note_Vol_1.jpg"
     },
     {
         "title": "Fullmetal Alchemist",
@@ -37,7 +37,7 @@
         "publication_year": 2001,
         "genres": ["Action", "Adventure", "Fantasy"],
         "volumes": 27,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/8/81/Fullmetal_Alchemist_1.jpg"
+        "cover_image": "https://en.wikipedia.org/wiki/File:Fullmetal123.jpg"
     },
     {
         "title": "My Hero Academia",
@@ -45,7 +45,7 @@
         "publication_year": 2014,
         "genres": ["Action", "Adventure", "Superhero"],
         "volumes": 32,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/3/39/My_Hero_Academia_Volume_1.png"
+        "cover_image": "https://en.wikipedia.org/wiki/File:Boku_no_Hero_Academia_Volume_1.png"
     },
     {
         "title": "Tokyo Ghoul",
@@ -53,7 +53,7 @@
         "publication_year": 2011,
         "genres": ["Dark Fantasy", "Horror", "Psychological"],
         "volumes": 14,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/5/50/Tokyo_Ghoul_volume_1_cover.jpg"
+        "cover_image": "https://en.wikipedia.org/wiki/File:Tokyo_Ghoul_volume_1_cover.jpg"
     },
     {
         "title": "Berserk",
@@ -61,7 +61,7 @@
         "publication_year": 1989,
         "genres": ["Dark Fantasy", "Action", "Adventure"],
         "volumes": 40,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/4/42/Berserk_vol01.png"
+        "cover_image": "https://en.wikipedia.org/wiki/File:Berserk_vol01.png"
     },
     {
         "title": "Dragon Ball",
@@ -69,7 +69,7 @@
         "publication_year": 1984,
         "genres": ["Action", "Adventure", "Fantasy"],
         "volumes": 42,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Dragon_Ball_volume_1_cover.jpg"
+        "cover_image": "https://en.wikipedia.org/wiki/File:GokumangaToriyama.png"
     },
     {
         "title": "Demon Slayer: Kimetsu no Yaiba",
@@ -77,6 +77,6 @@
         "publication_year": 2016,
         "genres": ["Action", "Dark Fantasy", "Adventure"],
         "volumes": 23,
-        "cover_image": "https://upload.wikimedia.org/wikipedia/en/7/72/Kimetsu_no_Yaiba_Volume_1.png"
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/0/09/Demon_Slayer_-_Kimetsu_no_Yaiba%2C_volume_1.jpg"
     }
 ]
