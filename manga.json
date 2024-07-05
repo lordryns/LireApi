@@ -4,69 +4,79 @@
         "author": "Masashi Kishimoto",
         "publication_year": 1999,
         "genres": ["Action", "Adventure", "Fantasy"],
-        "volumes": 72
+        "volumes": 72,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/9/94/NarutoCoverTankobon1.jpg"
     },
     {
         "title": "One Piece",
         "author": "Eiichiro Oda",
         "publication_year": 1997,
         "genres": ["Action", "Adventure", "Comedy"],
-        "volumes": 100
+        "volumes": 100,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/6/6d/One_Piece_vol_61.jpg"
     },
     {
         "title": "Attack on Titan",
         "author": "Hajime Isayama",
         "publication_year": 2009,
         "genres": ["Action", "Drama", "Fantasy"],
-        "volumes": 34
+        "volumes": 34,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Attack_on_Titan_Volume_1.jpg"
     },
     {
         "title": "Death Note",
         "author": "Tsugumi Ohba",
         "publication_year": 2003,
         "genres": ["Mystery", "Psychological", "Thriller"],
-        "volumes": 12
+        "volumes": 12,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/6/64/Death_Note_Vol_1.jpg"
     },
     {
         "title": "Fullmetal Alchemist",
         "author": "Hiromu Arakawa",
         "publication_year": 2001,
         "genres": ["Action", "Adventure", "Fantasy"],
-        "volumes": 27
+        "volumes": 27,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/8/81/Fullmetal_Alchemist_1.jpg"
     },
     {
         "title": "My Hero Academia",
         "author": "Kohei Horikoshi",
         "publication_year": 2014,
         "genres": ["Action", "Adventure", "Superhero"],
-        "volumes": 32
+        "volumes": 32,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/3/39/My_Hero_Academia_Volume_1.png"
     },
     {
         "title": "Tokyo Ghoul",
         "author": "Sui Ishida",
         "publication_year": 2011,
         "genres": ["Dark Fantasy", "Horror", "Psychological"],
-        "volumes": 14
+        "volumes": 14,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/5/50/Tokyo_Ghoul_volume_1_cover.jpg"
     },
     {
         "title": "Berserk",
         "author": "Kentaro Miura",
         "publication_year": 1989,
         "genres": ["Dark Fantasy", "Action", "Adventure"],
-        "volumes": 40
+        "volumes": 40,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/4/42/Berserk_vol01.png"
     },
     {
         "title": "Dragon Ball",
         "author": "Akira Toriyama",
         "publication_year": 1984,
         "genres": ["Action", "Adventure", "Fantasy"],
-        "volumes": 42
+        "volumes": 42,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Dragon_Ball_volume_1_cover.jpg"
     },
     {
         "title": "Demon Slayer: Kimetsu no Yaiba",
         "author": "Koyoharu Gotouge",
         "publication_year": 2016,
         "genres": ["Action", "Dark Fantasy", "Adventure"],
-        "volumes": 23
+        "volumes": 23,
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/7/72/Kimetsu_no_Yaiba_Volume_1.png"
     }
 ]
